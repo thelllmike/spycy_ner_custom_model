@@ -1,0 +1,21 @@
+{
+  "Frontend": [
+    "Vue JS",
+    "React"
+  ],
+  "Backend": [
+    "MERN",
+    "Laravel",
+    "Express"
+  ],
+  "Database": [
+    "MySQL"
+  ],
+  "Version Control": [
+    "Git",
+    "GitHub"
+  ],
+  "Hosting Control": [
+    "cPanel"
+  ]
+}
